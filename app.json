@@ -1,0 +1,49 @@
+{
+  "name": "chart",
+  "type": "app",
+  "defaultPage": "home",
+  "config": {
+    "config": {
+      "parameters": [],
+      "script": ""
+    },
+    "modules": [],
+    "properties": {
+      "version": "1.0.0-SNAPSHOT"
+    },
+    "environments": [
+      {
+        "name": "dev",
+        "description": "awed",
+        "active": true,
+        "properties": [
+          {
+            "name": "awd",
+            "value": "we"
+          }
+        ]
+      },
+      {
+        "name": "env1",
+        "description": "",
+        "active": false,
+        "properties": []
+      }
+    ],
+    "themes": [],
+    "auth": {
+      "enabled": true,
+      "mockedUserAccounts": []
+    },
+    "defaultEnvironment": {
+      "name": "Default",
+      "description": "",
+      "active": false,
+      "properties": []
+    }
+  },
+  "externalScripts": [],
+  "externalStylesheets": [],
+  "localScripts": [],
+  "localStylesheets": []
+}

@@ -1,0 +1,9 @@
+{
+  "name": "other",
+  "type": "page",
+  "url": "/other",
+  "params": {},
+  "variables": [],
+  "children": [],
+  "authenticationRequired": true
+}

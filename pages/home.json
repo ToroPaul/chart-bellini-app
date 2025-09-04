@@ -1,0 +1,48 @@
+{
+  "name": "home",
+  "type": "page",
+  "url": "/home",
+  "params": {},
+  "variables": [
+    {
+      "name": "asd",
+      "description": "",
+      "type": "property",
+      "value": ""
+    }
+  ],
+  "children": [
+    {
+      "name": "Chart",
+      "nodeName": "bln-chart",
+      "elementId": "",
+      "attributes": [
+        {
+          "property": "data-id",
+          "value": "_q_-yn"
+        },
+        {
+          "property": "core",
+          "value": ""
+        }
+      ],
+      "classList": [],
+      "conditionalClasses": [],
+      "conditionalStyles": [],
+      "contentType": "text",
+      "displayExpression": "",
+      "events": {},
+      "iterate": {
+        "array": "",
+        "variable": "",
+        "trackByIndex": false
+      },
+      "styles": [],
+      "children": [],
+      "comments": "",
+      "type": "core-component",
+      "expressions": []
+    }
+  ],
+  "authenticationRequired": true
+}
